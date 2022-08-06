@@ -38,7 +38,7 @@
 .wrapper a{
 	color: #306DBE;
 	font-size: 40px;
-	margin-left: 325px;
+	margin-left: 333px;
 	top: -600px;
 }
 
@@ -74,7 +74,7 @@
 .my-button{
 	text-align: center;
 	margin-top: 33px;
-	margin-left: 265px;
+	margin-left: 285px;
 	width: 300 px;
 	font-size: 52px;
 	background-color: #00A400;
@@ -136,5 +136,5 @@ a{
 }
 table{
 	margin-top: 500px;
-	margin-left: 145px;
+	
 }
